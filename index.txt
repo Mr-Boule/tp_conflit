@@ -1,3 +1,3 @@
-HEAD
-Titre du site : Espace Admin
-2eme titre : Un fichier texte
+ HEAD
+Titre du site : Création d'un panneau de configuration
+salopard
