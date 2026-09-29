@@ -1,2 +1,1 @@
-HEAD
-Titre du site : Espace Admin
+Titre du site : Création d'un panneau de configuration
