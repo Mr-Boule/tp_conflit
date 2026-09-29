@@ -1,1 +1,1 @@
-Titre du site : Création d'un panneau
+Titre du site : Création d'un panneau de configuration
